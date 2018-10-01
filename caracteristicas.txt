@@ -1,0 +1,5 @@
+Solution 0, Modulus: 3.6470588235294117
+Gear 0, Dp: 62.00 Z: 17.00
+Gear 1, Dp: 113.36 Z: 31.08
+Gear 2, Dp: 124.00 Z: 34.00
+Gear 3, Dp: 76.62 Z: 21.01
