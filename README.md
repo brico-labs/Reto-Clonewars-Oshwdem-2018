@@ -2,7 +2,8 @@
 Repositorio para el reto de impresión 3D de la Oswhdem 2018
 
 Este año el reto consistirá en imprimir engranajes para colocar en la pared perforada de la entrada de la sala maker.
-![alt text](/img/pared.jpg)
+
+![Pared](/img/pared.jpg)
 
 Para que todos los engranajes encajen bien se han calculado las caracteristicas de los mismos a partir de las dimensiones de la pared.
 
@@ -19,7 +20,7 @@ En caso de extruir uno de estos perfiles, se recomienda añadir un chaflán a la
 
 A partir de estos perfiles, el interior de los engranajes puede personalizarse, pero respetando siempre la forma básica de los engranajes.
 
-![alt text](/img/engranajes.jpg)
+![Engranajes](/img/engranajes.JPG)
 
 Los engranajes tienen las siguientes características:
 
