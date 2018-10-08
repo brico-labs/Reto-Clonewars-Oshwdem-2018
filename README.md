@@ -13,6 +13,7 @@ Hay 4 tipos de engranaje diferentes, en este repositorio se pueden encontrar en 
 - Svg
 - Stl
 - Proyecto de Freecad
+- OpenSCAD
 
 Los dos primeros pueden cargarse y extruirse en la mayoría de programas de CAD, siendo recomendable utilizar el DXF, ya que el SVG no mantiene las medidas.
 
