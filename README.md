@@ -1,7 +1,7 @@
 # Reto-Clonewars-Oshwdem-2018
 Repositorio para el reto de impresión 3D de la Oswhdem 2018
 
-Registra tu participación [aquí](https://docs.google.com/spreadsheets/d/1SnokEGJ45Vu7sOCrKUwsjmvuEwmsKIhkQNeIIfKUH_w/edit?usp=sharing)!
+### Registra tu participación en el reto en [ESTA HOJA!](https://docs.google.com/spreadsheets/d/1SnokEGJ45Vu7sOCrKUwsjmvuEwmsKIhkQNeIIfKUH_w/edit?usp=sharing)
 
 Este año el reto consistirá en imprimir engranajes para colocar en la pared perforada de la entrada de la sala maker.
 
