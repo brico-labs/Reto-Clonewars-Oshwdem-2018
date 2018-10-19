@@ -50,7 +50,10 @@ Los engranajes estan pensados para ser colocados de las siguientes formas:
 * La altura de la parte superior del eje no debe ser mayor de 50mm
 
 
+#####  El sistema esta pensado para usar como base los engranajes de 17 dientes, por lo que es recomendable imprimir uno de esta medida por cada uno de los otros.
+
 ![Limitaciones](https://oshwdem.org/wp-content/uploads/2018/10/pulponaje.jpg)
+
 
 ## Entrega de los engranajes
 
