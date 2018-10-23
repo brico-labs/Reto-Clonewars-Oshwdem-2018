@@ -10,7 +10,7 @@ Este año el reto consistirá en imprimir engranajes para colocar en la pared pe
 
 Para que todos los engranajes encajen bien se han calculado las caracteristicas de los mismos a partir de las dimensiones de la pared.
 
-Hay 4 tipos de engranaje diferentes, en este repositorio se pueden encontrar en formatos diferentes:
+Hay 6 tipos de engranaje diferentes, en este repositorio se pueden encontrar en formatos diferentes:
 
 - Dxf
 - Svg
@@ -63,13 +63,14 @@ Los engranajes pueden ser entregados personalmente el mismo día de la Oshwdem o
 Ángel Rebollo, 91
 15002 A Coruña**
 ## Especificaciones
+
 Los engranajes tienen las siguientes características:
 
 Módulo:  3.6470
 
-Número de dientes: 17, 21, 31, 34
+Número de dientes: 17, 21, 31, 34, 68, 170
 
-Diametros primitivos: 62, 76.62, 113.36, 124
+Diametros primitivos: 62, 76.62, 113.36, 124, 248, 620
 
 Angulo de presión: 20º
 
