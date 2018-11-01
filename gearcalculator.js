@@ -2,8 +2,6 @@
 
 // Primitive diameter of the base gear
 var main_gear_Dp = 31*2; //milimeters
-// Max allowed modulus
-var max_m = 50;
 // Minimum number of teeth
 var min_z = 1;
 // Maximum number of teeth
