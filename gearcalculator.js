@@ -1,5 +1,3 @@
-
-
 // Primitive diameter of the base gear
 var main_gear_Dp = 31*2; //milimeters
 // Minimum number of teeth
@@ -27,7 +25,7 @@ for (z = min_z; z <= max_z; z++ ){
     other_diameters.forEach((dp)=>{
         // Compute number of teeth
         var z = dp / m;
-        if (pass && ((z % 1)>tolerance)){
+        if (pass && (((z % 1) > tolerance))||(z % 1) > (1-tolerance)){
             pass = false;
         }
     })
