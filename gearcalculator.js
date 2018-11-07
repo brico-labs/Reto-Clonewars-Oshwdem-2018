@@ -25,7 +25,8 @@ for (z = min_z; z <= max_z; z++ ){
     other_diameters.forEach((dp)=>{
         // Compute number of teeth
         var z = dp / m;
-        if (pass && (((z % 1) > tolerance))||(z % 1) > (1-tolerance)){
+
+        if (pass && ((tolerance < (z % 1)) && (z % 1) < (1-tolerance))){
             pass = false;
         }
     })
